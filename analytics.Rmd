@@ -1,0 +1,149 @@
+---
+title: "Politica Social Media"
+output: 
+  flexdashboard::flex_dashboard:
+    vertical_layout: fill
+    theme: bootstrap
+
+---
+
+
+<style>
+
+
+.navbar {border-color:blue;}
+.navbar-brand {color:black!important;}
+.nav-tabs-custom .nav-tabs li.active a {
+  color: #d99fed;
+}
+
+
+
+.ion-social-twitter{
+    color:blue;
+}
+
+.ion-social-instagram{
+    color:pink;
+}
+
+
+
+</style>   
+
+  
+
+
+
+
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+
+
+```
+
+
+
+
+Total {data-orientation=rows}
+=====================================
+
+**_Tendencia Popularidad Política Argentina en Redes Sociales._**
+
+
+
+Row  {data-height=600}
+-----------------------------------------------------------------------
+
+### ***Tendencia Histórica***
+
+
+### ***Mayor Porcentaje Diario***
+
+
+### ***Menor Porcentaje Diario***
+
+
+
+Row {.tabset} 
+-----------------------------------------------------------------------
+
+### ***Dinámica Intersemanal***
+
+
+### ***Dinámica Intermensual***
+
+
+### ***Dinámica Interanual***
+
+
+
+
+
+Instagram {data-orientation=rows  data-icon="ion-social-instagram"} 
+=====================================
+
+**_Tendencia Popularidad Política Argentina en Redes Sociales._**
+
+
+
+Row  {data-height=600}
+-----------------------------------------------------------------------
+
+### ***Tendencia Histórica***
+
+
+### ***Mayor Porcentaje Diario***
+
+
+### ***Menor Porcentaje Diario***
+
+
+
+Row {.tabset} 
+-----------------------------------------------------------------------
+
+### ***Dinámica Intersemanal***
+
+
+### ***Dinámica Intermensual***
+
+
+### ***Dinámica Interanual***
+
+
+
+
+
+Twitter {data-orientation=rows  data-icon="ion-social-twitter"} 
+=====================================
+
+**_Tendencia Popularidad Política Argentina en Redes Sociales._**
+
+
+
+Row  {data-height=600}
+-----------------------------------------------------------------------
+
+### ***Tendencia Histórica***
+
+
+### ***Mayor Porcentaje Diario***
+
+
+### ***Menor Porcentaje Diario***
+
+
+
+Row {.tabset} 
+-----------------------------------------------------------------------
+
+### ***Dinámica Intersemanal***
+
+
+### ***Dinámica Intermensual***
+
+
+### ***Dinámica Interanual***
+
