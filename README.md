@@ -1,12 +1,12 @@
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/2560px-RStudio_logo_flat.svg.png" alt="react" width="50" height="50" />
-<img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="50" height="50" />
-<img src="https://jkunst.com/highcharter/logo.png" alt="react" width="50" height="50" />
-<img src="https://ih0.redbubble.net/image.459071846.6555/flat,1000x1000,075,f.u1.jpg" alt="react" width="50" height="50" />
-<img src="https://getlogovector.com/wp-content/uploads/2020/09/plotly-logo-vector.png" alt="react" width="50" height="50" />
-<img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="25" height="25" />
+<img src="https://img2.freepng.es/20190618/yhi/kisspng-logo-movistar-brand-trademark-product-rstudio-icon-free-of-papirus-apps-5d08d887815bb1.5167350915608608075299.jpg" alt="react" width="25" height="25" />
+<img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="25" height="25" />
+<img src="https://jkunst.com/highcharter/logo.png" alt="react" width="25" height="25" />
+<img src="https://www.anabellelaurent.com/slides/datawrangling_tallerr_ecuador/images/dplyr.png" alt="react" width="25" height="25" />
+<img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png" alt="react" width="25" height="25" />
+<img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="25" height="25" />
 </p>
 
 
