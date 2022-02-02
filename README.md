@@ -18,7 +18,7 @@
 
 _This work consists of automating the data extraction using Python of the followers of the main and potential politicians of Argentina on Instagram and Twitter in order to be able to analyze trends and draw conclusions regarding future elections. The data began to be collected from the swearing-in of the Chamber of Deputies in December 2021. The dashboard will be made in R using the flexdashboard library._
 
-
+link -- > [Rpubs](https://rpubs.com/MGaloto/social_media_politics)
 
 # Include
 
@@ -117,7 +117,7 @@ Python (ETL)
 
 ## Structure
 
-![.](plot/dash.png)
+![.](plot/panel.png)
 
 
 
